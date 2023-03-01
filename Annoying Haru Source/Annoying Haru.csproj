@@ -1,0 +1,179 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>textures\Haru_icon.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="character\10_2_wow.png" />
+    <None Remove="character\11_2_snow.png" />
+    <None Remove="character\11_snow.png" />
+    <None Remove="character\2_standart.png" />
+    <None Remove="character\3_shocked.png" />
+    <None Remove="character\4_2_love.png" />
+    <None Remove="character\4_love.png" />
+    <None Remove="character\5_angry.png" />
+    <None Remove="character\6_2_sleepy.png" />
+    <None Remove="character\6_sleepy.png" />
+    <None Remove="character\7_2_sad.png" />
+    <None Remove="character\7_sad.png" />
+    <None Remove="character\8_2_happy.png" />
+    <None Remove="character\8_happy.png" />
+    <None Remove="character\9_1_wow.png" />
+    <None Remove="character\void.png" />
+    <None Remove="images\Apartment_Exterior_Night.jpg" />
+    <None Remove="images\Bathroom.jpg" />
+    <None Remove="images\Bathroom_Foggy.jpg" />
+    <None Remove="images\Bedroom_Day.jpg" />
+    <None Remove="images\Bedroom_Night_Dark.jpg" />
+    <None Remove="images\dark.jpg" />
+    <None Remove="images\Kitchen_Day.jpg" />
+    <None Remove="images\Livingroom_Dark.jpg" />
+    <None Remove="images\Livingroom_Day.jpg" />
+    <None Remove="images\Livingroom_Night.jpg" />
+    <None Remove="images\menu_back.jpg" />
+    <None Remove="images\Restaurant_B.jpg" />
+    <None Remove="images\Small_Apartment_Kitchen.jpg" />
+    <None Remove="images\Small_Apartment_Kitchen_Night.jpg" />
+    <None Remove="images\Street_Summer_Day.jpg" />
+    <None Remove="images\Street_Summer_Night.jpg" />
+    <None Remove="images\Street_Summer_Rain.jpg" />
+    <None Remove="textures\arrow_1.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="bin\Debug\net6.0-windows\sounds\backMus1.wav" />
+    <Content Include="bin\Debug\net6.0-windows\sounds\backMus2.wav" />
+    <Content Include="bin\Debug\net6.0-windows\sounds\backMus3.wav" />
+    <Content Include="bin\Debug\net6.0-windows\sounds\bath.wav" />
+    <Content Include="bin\Debug\net6.0-windows\sounds\bed.wav" />
+    <Content Include="bin\Debug\net6.0-windows\sounds\cooking.wav" />
+    <Content Include="bin\Debug\net6.0-windows\sounds\door.wav" />
+    <Content Include="bin\Debug\net6.0-windows\sounds\giggle.wav" />
+    <Content Include="bin\Debug\net6.0-windows\sounds\iphone.wav" />
+    <Content Include="bin\Debug\net6.0-windows\sounds\knok.wav" />
+    <Content Include="bin\Debug\net6.0-windows\sounds\loadSound.wav" />
+    <Content Include="bin\Debug\net6.0-windows\sounds\meow.wav" />
+    <Content Include="bin\Debug\net6.0-windows\sounds\onniichan.wav" />
+    <Content Include="bin\Debug\net6.0-windows\sounds\phone_drop.wav" />
+    <Content Include="bin\Debug\net6.0-windows\sounds\rain.wav" />
+    <Content Include="bin\Debug\net6.0-windows\sounds\ring.wav" />
+    <Content Include="bin\Debug\net6.0-windows\sounds\rumbling.wav" />
+    <Content Include="bin\Debug\net6.0-windows\sounds\saveSound.wav" />
+    <Content Include="bin\Debug\net6.0-windows\sounds\silent.wav" />
+    <Content Include="bin\Debug\net6.0-windows\sounds\sity_night.wav" />
+    <Content Include="bin\Debug\net6.0-windows\sounds\sound_btn.wav" />
+    <Content Include="bin\Debug\net6.0-windows\sounds\street_walk.wav" />
+    <Content Include="textures\Haru_icon.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="character\10_2_wow.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="character\11_2_snow.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="character\11_snow.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="character\2_standart.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="character\3_shocked.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="character\4_2_love.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="character\4_love.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="character\5_angry.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="character\6_2_sleepy.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="character\6_sleepy.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="character\7_2_sad.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="character\7_sad.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="character\8_2_happy.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="character\8_happy.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="character\9_1_wow.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="character\void.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\Apartment_Exterior_Night.jpg">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\Bathroom.jpg">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\Bathroom_Foggy.jpg">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\Bedroom_Day.jpg">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\Bedroom_Night_Dark.jpg">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\dark.jpg">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\Kitchen_Day.jpg">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\Livingroom_Dark.jpg">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\Livingroom_Day.jpg">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\Livingroom_Night.jpg">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\menu_back.jpg">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\Restaurant_B.jpg">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\Small_Apartment_Kitchen.jpg">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\Small_Apartment_Kitchen_Night.jpg">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\Street_Summer_Day.jpg">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\Street_Summer_Night.jpg">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="images\Street_Summer_Rain.jpg">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="textures\arrow_1.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+</Project>

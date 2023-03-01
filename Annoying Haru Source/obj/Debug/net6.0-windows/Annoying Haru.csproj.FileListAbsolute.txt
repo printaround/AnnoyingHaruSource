@@ -1,0 +1,22 @@
+D:\Daniil\Everything\Annoying Haru Project\Annoying Haru\bin\Debug\net6.0-windows\Annoying Haru.exe
+D:\Daniil\Everything\Annoying Haru Project\Annoying Haru\bin\Debug\net6.0-windows\Annoying Haru.deps.json
+D:\Daniil\Everything\Annoying Haru Project\Annoying Haru\bin\Debug\net6.0-windows\Annoying Haru.runtimeconfig.json
+D:\Daniil\Everything\Annoying Haru Project\Annoying Haru\bin\Debug\net6.0-windows\Annoying Haru.dll
+D:\Daniil\Everything\Annoying Haru Project\Annoying Haru\bin\Debug\net6.0-windows\Annoying Haru.pdb
+D:\Daniil\Everything\Annoying Haru Project\Annoying Haru\obj\Debug\net6.0-windows\Annoying Haru.csproj.AssemblyReference.cache
+D:\Daniil\Everything\Annoying Haru Project\Annoying Haru\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Daniil\Everything\Annoying Haru Project\Annoying Haru\obj\Debug\net6.0-windows\App.g.cs
+D:\Daniil\Everything\Annoying Haru Project\Annoying Haru\obj\Debug\net6.0-windows\Annoying Haru_Content.g.cs
+D:\Daniil\Everything\Annoying Haru Project\Annoying Haru\obj\Debug\net6.0-windows\Annoying Haru_MarkupCompile.cache
+D:\Daniil\Everything\Annoying Haru Project\Annoying Haru\obj\Debug\net6.0-windows\Annoying Haru_MarkupCompile.lref
+D:\Daniil\Everything\Annoying Haru Project\Annoying Haru\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Daniil\Everything\Annoying Haru Project\Annoying Haru\obj\Debug\net6.0-windows\Annoying Haru.g.resources
+D:\Daniil\Everything\Annoying Haru Project\Annoying Haru\obj\Debug\net6.0-windows\Annoying Haru.GeneratedMSBuildEditorConfig.editorconfig
+D:\Daniil\Everything\Annoying Haru Project\Annoying Haru\obj\Debug\net6.0-windows\Annoying Haru.AssemblyInfoInputs.cache
+D:\Daniil\Everything\Annoying Haru Project\Annoying Haru\obj\Debug\net6.0-windows\Annoying Haru.AssemblyInfo.cs
+D:\Daniil\Everything\Annoying Haru Project\Annoying Haru\obj\Debug\net6.0-windows\Annoying Haru.csproj.CoreCompileInputs.cache
+D:\Daniil\Everything\Annoying Haru Project\Annoying Haru\obj\Debug\net6.0-windows\Annoying Haru.dll
+D:\Daniil\Everything\Annoying Haru Project\Annoying Haru\obj\Debug\net6.0-windows\refint\Annoying Haru.dll
+D:\Daniil\Everything\Annoying Haru Project\Annoying Haru\obj\Debug\net6.0-windows\Annoying Haru.pdb
+D:\Daniil\Everything\Annoying Haru Project\Annoying Haru\obj\Debug\net6.0-windows\Annoying Haru.genruntimeconfig.cache
+D:\Daniil\Everything\Annoying Haru Project\Annoying Haru\obj\Debug\net6.0-windows\ref\Annoying Haru.dll

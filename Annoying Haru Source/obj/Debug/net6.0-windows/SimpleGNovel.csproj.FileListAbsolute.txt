@@ -1,0 +1,66 @@
+D:\Daniil\Desktop\SimpleGNovel\bin\Debug\net6.0-windows\SimpleGNovel.exe
+D:\Daniil\Desktop\SimpleGNovel\bin\Debug\net6.0-windows\SimpleGNovel.deps.json
+D:\Daniil\Desktop\SimpleGNovel\bin\Debug\net6.0-windows\SimpleGNovel.runtimeconfig.json
+D:\Daniil\Desktop\SimpleGNovel\bin\Debug\net6.0-windows\SimpleGNovel.dll
+D:\Daniil\Desktop\SimpleGNovel\bin\Debug\net6.0-windows\SimpleGNovel.pdb
+D:\Daniil\Desktop\SimpleGNovel\obj\Debug\net6.0-windows\SimpleGNovel.csproj.AssemblyReference.cache
+D:\Daniil\Desktop\SimpleGNovel\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Daniil\Desktop\SimpleGNovel\obj\Debug\net6.0-windows\App.g.cs
+D:\Daniil\Desktop\SimpleGNovel\obj\Debug\net6.0-windows\SimpleGNovel_MarkupCompile.cache
+D:\Daniil\Desktop\SimpleGNovel\obj\Debug\net6.0-windows\SimpleGNovel_MarkupCompile.lref
+D:\Daniil\Desktop\SimpleGNovel\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Daniil\Desktop\SimpleGNovel\obj\Debug\net6.0-windows\SimpleGNovel.g.resources
+D:\Daniil\Desktop\SimpleGNovel\obj\Debug\net6.0-windows\SimpleGNovel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Daniil\Desktop\SimpleGNovel\obj\Debug\net6.0-windows\SimpleGNovel.AssemblyInfoInputs.cache
+D:\Daniil\Desktop\SimpleGNovel\obj\Debug\net6.0-windows\SimpleGNovel.AssemblyInfo.cs
+D:\Daniil\Desktop\SimpleGNovel\obj\Debug\net6.0-windows\SimpleGNovel.csproj.CoreCompileInputs.cache
+D:\Daniil\Desktop\SimpleGNovel\obj\Debug\net6.0-windows\SimpleGNovel.dll
+D:\Daniil\Desktop\SimpleGNovel\obj\Debug\net6.0-windows\refint\SimpleGNovel.dll
+D:\Daniil\Desktop\SimpleGNovel\obj\Debug\net6.0-windows\SimpleGNovel.pdb
+D:\Daniil\Desktop\SimpleGNovel\obj\Debug\net6.0-windows\SimpleGNovel.genruntimeconfig.cache
+D:\Daniil\Desktop\SimpleGNovel\obj\Debug\net6.0-windows\ref\SimpleGNovel.dll
+D:\Daniil\Desktop\SimpleGNovel\obj\Debug\net6.0-windows\SimpleGNovel_Content.g.cs
+D:\Daniil\Desktop\Annoying Haru Project\Annoying Haru\bin\Debug\net6.0-windows\SimpleGNovel.exe
+D:\Daniil\Desktop\Annoying Haru Project\Annoying Haru\bin\Debug\net6.0-windows\SimpleGNovel.deps.json
+D:\Daniil\Desktop\Annoying Haru Project\Annoying Haru\bin\Debug\net6.0-windows\SimpleGNovel.runtimeconfig.json
+D:\Daniil\Desktop\Annoying Haru Project\Annoying Haru\bin\Debug\net6.0-windows\SimpleGNovel.dll
+D:\Daniil\Desktop\Annoying Haru Project\Annoying Haru\bin\Debug\net6.0-windows\SimpleGNovel.pdb
+D:\Daniil\Desktop\Annoying Haru Project\Annoying Haru\obj\Debug\net6.0-windows\SimpleGNovel.csproj.AssemblyReference.cache
+D:\Daniil\Desktop\Annoying Haru Project\Annoying Haru\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Daniil\Desktop\Annoying Haru Project\Annoying Haru\obj\Debug\net6.0-windows\App.g.cs
+D:\Daniil\Desktop\Annoying Haru Project\Annoying Haru\obj\Debug\net6.0-windows\SimpleGNovel_Content.g.cs
+D:\Daniil\Desktop\Annoying Haru Project\Annoying Haru\obj\Debug\net6.0-windows\SimpleGNovel_MarkupCompile.cache
+D:\Daniil\Desktop\Annoying Haru Project\Annoying Haru\obj\Debug\net6.0-windows\SimpleGNovel_MarkupCompile.lref
+D:\Daniil\Desktop\Annoying Haru Project\Annoying Haru\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Daniil\Desktop\Annoying Haru Project\Annoying Haru\obj\Debug\net6.0-windows\SimpleGNovel.g.resources
+D:\Daniil\Desktop\Annoying Haru Project\Annoying Haru\obj\Debug\net6.0-windows\SimpleGNovel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Daniil\Desktop\Annoying Haru Project\Annoying Haru\obj\Debug\net6.0-windows\SimpleGNovel.AssemblyInfoInputs.cache
+D:\Daniil\Desktop\Annoying Haru Project\Annoying Haru\obj\Debug\net6.0-windows\SimpleGNovel.AssemblyInfo.cs
+D:\Daniil\Desktop\Annoying Haru Project\Annoying Haru\obj\Debug\net6.0-windows\SimpleGNovel.csproj.CoreCompileInputs.cache
+D:\Daniil\Desktop\Annoying Haru Project\Annoying Haru\obj\Debug\net6.0-windows\SimpleGNovel.dll
+D:\Daniil\Desktop\Annoying Haru Project\Annoying Haru\obj\Debug\net6.0-windows\refint\SimpleGNovel.dll
+D:\Daniil\Desktop\Annoying Haru Project\Annoying Haru\obj\Debug\net6.0-windows\SimpleGNovel.pdb
+D:\Daniil\Desktop\Annoying Haru Project\Annoying Haru\obj\Debug\net6.0-windows\SimpleGNovel.genruntimeconfig.cache
+D:\Daniil\Desktop\Annoying Haru Project\Annoying Haru\obj\Debug\net6.0-windows\ref\SimpleGNovel.dll
+D:\Daniil\Everything\Annoying Haru Project\Annoying Haru\bin\Debug\net6.0-windows\SimpleGNovel.exe
+D:\Daniil\Everything\Annoying Haru Project\Annoying Haru\bin\Debug\net6.0-windows\SimpleGNovel.deps.json
+D:\Daniil\Everything\Annoying Haru Project\Annoying Haru\bin\Debug\net6.0-windows\SimpleGNovel.runtimeconfig.json
+D:\Daniil\Everything\Annoying Haru Project\Annoying Haru\bin\Debug\net6.0-windows\SimpleGNovel.dll
+D:\Daniil\Everything\Annoying Haru Project\Annoying Haru\bin\Debug\net6.0-windows\SimpleGNovel.pdb
+D:\Daniil\Everything\Annoying Haru Project\Annoying Haru\obj\Debug\net6.0-windows\SimpleGNovel.csproj.AssemblyReference.cache
+D:\Daniil\Everything\Annoying Haru Project\Annoying Haru\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Daniil\Everything\Annoying Haru Project\Annoying Haru\obj\Debug\net6.0-windows\App.g.cs
+D:\Daniil\Everything\Annoying Haru Project\Annoying Haru\obj\Debug\net6.0-windows\SimpleGNovel_Content.g.cs
+D:\Daniil\Everything\Annoying Haru Project\Annoying Haru\obj\Debug\net6.0-windows\SimpleGNovel_MarkupCompile.cache
+D:\Daniil\Everything\Annoying Haru Project\Annoying Haru\obj\Debug\net6.0-windows\SimpleGNovel_MarkupCompile.lref
+D:\Daniil\Everything\Annoying Haru Project\Annoying Haru\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Daniil\Everything\Annoying Haru Project\Annoying Haru\obj\Debug\net6.0-windows\SimpleGNovel.g.resources
+D:\Daniil\Everything\Annoying Haru Project\Annoying Haru\obj\Debug\net6.0-windows\SimpleGNovel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Daniil\Everything\Annoying Haru Project\Annoying Haru\obj\Debug\net6.0-windows\SimpleGNovel.AssemblyInfoInputs.cache
+D:\Daniil\Everything\Annoying Haru Project\Annoying Haru\obj\Debug\net6.0-windows\SimpleGNovel.AssemblyInfo.cs
+D:\Daniil\Everything\Annoying Haru Project\Annoying Haru\obj\Debug\net6.0-windows\SimpleGNovel.csproj.CoreCompileInputs.cache
+D:\Daniil\Everything\Annoying Haru Project\Annoying Haru\obj\Debug\net6.0-windows\SimpleGNovel.dll
+D:\Daniil\Everything\Annoying Haru Project\Annoying Haru\obj\Debug\net6.0-windows\refint\SimpleGNovel.dll
+D:\Daniil\Everything\Annoying Haru Project\Annoying Haru\obj\Debug\net6.0-windows\SimpleGNovel.pdb
+D:\Daniil\Everything\Annoying Haru Project\Annoying Haru\obj\Debug\net6.0-windows\SimpleGNovel.genruntimeconfig.cache
+D:\Daniil\Everything\Annoying Haru Project\Annoying Haru\obj\Debug\net6.0-windows\ref\SimpleGNovel.dll

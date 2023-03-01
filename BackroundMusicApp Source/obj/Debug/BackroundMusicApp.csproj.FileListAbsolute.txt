@@ -1,0 +1,8 @@
+D:\Daniil\Desktop\BackroundMusicApp\bin\Debug\BackroundMusicApp.exe.config
+D:\Daniil\Desktop\BackroundMusicApp\bin\Debug\BackroundMusicApp.exe
+D:\Daniil\Desktop\BackroundMusicApp\bin\Debug\BackroundMusicApp.pdb
+D:\Daniil\Desktop\BackroundMusicApp\obj\Debug\BackroundMusicApp.csproj.AssemblyReference.cache
+D:\Daniil\Desktop\BackroundMusicApp\obj\Debug\BackroundMusicApp.csproj.SuggestedBindingRedirects.cache
+D:\Daniil\Desktop\BackroundMusicApp\obj\Debug\BackroundMusicApp.csproj.CoreCompileInputs.cache
+D:\Daniil\Desktop\BackroundMusicApp\obj\Debug\BackroundMusicApp.exe
+D:\Daniil\Desktop\BackroundMusicApp\obj\Debug\BackroundMusicApp.pdb
